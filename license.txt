@@ -1,0 +1,11 @@
+Model Information:
+* title:	iPhone 11 - minimal
+* source:	https://sketchfab.com/3d-models/iphone-11-minimal-47f83628156949008e52734452cb7827
+* author:	Jesse Ragos (https://sketchfab.com/jkiel9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "iPhone 11 - minimal" (https://sketchfab.com/3d-models/iphone-11-minimal-47f83628156949008e52734452cb7827) by Jesse Ragos (https://sketchfab.com/jkiel9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
